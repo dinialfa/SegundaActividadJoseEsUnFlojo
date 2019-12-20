@@ -7,7 +7,7 @@ namespace JoseEsUnFlojo2._0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Jose se cree que tiene idea de filosofia pero no tiene ni idea");
+            Console.WriteLine("Dani se contenta con ser mediocre y se enorgullece de ello");
         }
     }
 }
